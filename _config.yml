@@ -64,7 +64,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Edouard Duchesnay"
-  avatar           : "bio-photo.jpg"
+  avatar           : "2013-07_ed_focus_small.jpg"
   bio              : "Research Scientist in Machine Learning in Neuroimaging"
   location         : "CEA, NeuroSpin, Paris-Saclay, France"
   email            : "edouard.duchesnay.cea.fr"
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : edouard.duchesnay@cea.fr
+  linkedin         : edouard-duchesnay-27b47b8
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
