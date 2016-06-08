@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "E. Duchesnay: Research Scientist in Machine Learning in Neuroimaging"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Edouard Duchesnay"
+description              : "Perso/Pro. homepage."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Edouard Duchesnay"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Research Scientist in Machine Learning in Neuroimaging"
+  location         : "CEA, NeuroSpin, Paris-Saclay, France"
+  email            : "edouard.duchesnay.cea.fr"
   uri              :
   bitbucket        :
   codepen          :
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : duchesnay
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : edouard.duchesnay@cea.fr
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
