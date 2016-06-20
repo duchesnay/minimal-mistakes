@@ -6,8 +6,6 @@ permalink: /research/
 
 ## Machine Learning with Structured Sparsity
 
-**Structured sparsity for Machine Lea**
-
 The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. 
 However, algorithms should provide interpretable solutions.
 Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images.
