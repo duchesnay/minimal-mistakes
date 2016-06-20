@@ -6,12 +6,13 @@ permalink: /research/
 
 ## Machine Learning with Structured Sparsity
 
-Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images. We developed new predictors enforcing the spatial coherence of the predictive map using the Total Variation constraint.
+**Structured sparsity for Machine Lea**
 
+The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. 
+However, algorithms should provide interpretable solutions.
+Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images.
 
-**Total Variation**
-
-The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. Although such multivariate methods can capture complex relationships in the data, traditional approaches provide irregular or scattered (l1 penalty, see Lasso penalty the figure below) predictive pattern with a very limited relevance.
+Although such multivariate methods can capture complex relationships in the data, traditional approaches provide irregular or scattered (l1 penalty, see Lasso penalty the figure below) predictive pattern with a very limited relevance.
 ![weight_map_adni_3d_enet](/images/weight_map_adni_3d_enet.png "Logo Title Text 1")
 
 A penalty like Total Variation (TV) that exploits the natural 3D structure of the images can increase the spatial coherence of the weight map.
