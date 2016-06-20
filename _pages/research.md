@@ -6,12 +6,29 @@ permalink: /research/
 
 ## Machine Learning with Structured Sparsity
 
+Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images. We developed new predictors enforcing the spatial coherence of the predictive map using the Total Variation constraint.
+
 
 **Total Variation**
 
-The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. Although such multivariate methods can capture complex relationships in the data, traditional approaches provide irregular (l2 penalty, see SVM in first row in the figure below) or scattered (l1 penalty, see Lasso in third row in the figure below) predictive pattern with a very limited relevance. A penalty like Total Variation (TV) that exploits the natural 3D structure of the images can increase the spatial coherence of the weight map (see SVM+TV  and Lasso+TV in second and fourth rows in the figure below). The versatility of our framework authorizes its application to all kind of structured input data. Without any modification of the algorithm we have analysed the 2D surface-based, cortical thickness (see right columns if the figure).  However, TV penalization leads to non-smooth optimization problems which disables classical gradient descent methods.
+The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. Although such multivariate methods can capture complex relationships in the data, traditional approaches provide irregular or scattered (l1 penalty, see Lasso penalty the figure below) predictive pattern with a very limited relevance.
+![weight_map_adni_3d_enet](/images/weight_map_adni_3d_enet.png "Logo Title Text 1")
 
-Predictive map of different algorithms obtained with patients that will convert to Alzheimer Disease vs healthy controls. Left columns: weights obtained on 3D voxel-based of grey matter. Right columns weights on 2D Cortical thickness.  First row: the state-of-the-art SVM leads to a “christmas tree” effect with a poor relevance. On the second row we added our spatial constraint (TV-penalty). Weight map provides a clear view of the medial-temporal atrophy. The third row shows the map obtained with the state-of-the-art Lasso algorithm. The weights map is too sparse and hardly interpretable. On the fourth row we added our spatial constraint (TV-penalty) which lead to a more interpretable map of biomarkers.
+A penalty like Total Variation (TV) that exploits the natural 3D structure of the images can increase the spatial coherence of the weight map.
+![weight_map_adni_3d_enettv](/images/weight_map_adni_3d_enettv.png "Logo Title Text 1")
+
+**Generalization to any type of data with spatial structure**
+
+The algorithms are based on a versatile mathematical framework which authorizes a straightforward application on any type of structured input data: 3 dimensional image or meshes of the cortical surface.
+The next figure shows the weights map obtained by a classic Lasso-based algorithms on mesh of cortical thickness.
+![weight_map_adni_mesh_enet](/images/weight_map_adni_3d_enet.png "Logo Title Text 1")
+
+The next figure shows the weights map obtained by adding a TV penalty.
+![weight_map_adni_mesh_enettv](/images/weight_map_adni_3d_enettv.png "Logo Title Text 1")
+
+Structured sparsity based on TV provides **interpretable and stable** predictive brain maps.
+
+However, TV penalization leads to non-smooth optimization problems which disables classical gradient descent methods.
 
 
 **Optimization**
