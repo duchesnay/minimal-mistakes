@@ -13,17 +13,21 @@ I received the engineer degree in software engineering from École Pour l’Info
 
 ## Work Experience
 
-- 2008 Permanent research scientist position at Neurospin
-- 2005-2008 R&D Engineer in the CEA-INSERM Research Unit -"Neuroimaging and Psychiatry", Orsay, France
+- 2008 Permanent research scientist position at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx)
+- 2005-2008 R&D Engineer in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France
 - 2003-2004 Postdoctoral position at CEA, Orsay, France
 - 2002 Software Engineer at MBD.A (Matra BAe Dynamics, EADS company) Velizy, contract for ASTEK company, France
-- 2001-2002 Teaching and Research Assistant at Rennes 1 University, France
+- 2001-2002 Teaching and Research Assistant at [Rennes 1 University](https://english.univ-rennes1.fr), France
 
 
 ## Education
 
-- 1999-2001 Ph.D. in Image Processing at LTSI (laboratory of signal and image processing) of Rennes 1 University, France
-- 1997-1998 Master’s degree in Signal/Image Processing. in Rennes 1 University, France
-- 1992-1997 Master’s degree in Software Engineering. École Pour l’Informatique et les Techniques Avancées (EPITA), Kremlin Bicêtre, France
+- 1999-2001 Ph.D. in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing) of [Rennes 1 University](https://english.univ-rennes1.fr), France
+- 1997-1998 [Master’s degree in Signal/Image Processing](https://etudes.univ-rennes1.fr/master-electronique/themes/M2/PresentationSpecialite/SISEA). in [Rennes 1 University](https://english.univ-rennes1.fr), France
+- 1992-1997 Master’s degree in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France
+
+## Publications
+
+[Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 
 

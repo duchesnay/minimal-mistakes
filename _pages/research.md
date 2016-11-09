@@ -4,6 +4,11 @@ title: "Research"
 permalink: /research/
 ---
 
+## Publications
+
+[Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
+
+
 ## Machine Learning with Structured Sparsity
 
 The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. 
