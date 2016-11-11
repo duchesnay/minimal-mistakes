@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+
+Below the price of machine learning who my support for two master where I stand
+
 ## Machine Learning in Python.
 
 Please note that this is only a **draft version** yet.

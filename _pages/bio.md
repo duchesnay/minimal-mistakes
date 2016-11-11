@@ -5,7 +5,7 @@ permalink: /bio/
 date: 2016-02-24T03:02:20+00:00
 ---
 
-Since 2008, I am a permanent researcher working at NeuroSpin: a MRI neuroimaging center within the CEA. I am developing machine learning algorithms (classification/regression) and multivariate/univariate statistics analysis tools. My aim is to design algorithms that provide computer-aided diagnosis/prognosis tools or biomarkers discovering methods for brain diseases. I am now integrating genetic (DNA array) together with neuroimaging. The specificity of those data is their large dimensionality in both neuroimaging and genetic (~millions of measurements) compared to the low number of samples (~hundreds). Thus, the guiding thread of all my research is to design feature extraction/selection, sparse and structured machine learning (convex optimisation) algorithms.
+Since 2008, I am a research scientist at [NeuroSpin/CEA](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), Paris-Saclay: a MRI neuroimaging center within the [CEA](http://www.cea.fr/english). I am developing machine learning algorithms (classification/regression) and multivariate/univariate statistics analysis tools. My aim is to design algorithms that provide computer-aided diagnosis/prognosis tools or biomarkers discovering methods for brain diseases. I am now integrating genetic (DNA array) together with neuroimaging. The specificity of those data is their large dimensionality in both neuroimaging and genetic (~millions of measurements) compared to the low number of samples (~hundreds). Thus, the guiding thread of all my research is to design feature extraction/selection, sparse and structured machine learning (convex optimisation) algorithms.
 
 I received the engineer degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France) in 1997, the M.Sc. degree in signal/image processing from Rennes 1 University (France) in 1998 and the PhD degree in signal and image processing Rennes 1 University (France) in 2001.
 
@@ -30,5 +30,15 @@ I received the engineer degree in software engineering from École Pour l’Info
 ## Publications
 
 [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
+
+
+## Teaching
+
+- 2014-2016 Machine learning in Master 2 - Innovation, marché et science des données [(IMSD)](https://www.universite-paris-saclay.fr/en/education/master/m2-innovation-marche-et-science-des-donnees-imsd), Paris-Saclay University - Head of the Master: Marc-Arthur  Diaye. Link to the [course in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf)
+
+- 2016-2017 Dimension reduction in [Master 1](http://odf.parisdescartes.fr/fr/formations/feuilleter-le-catalogue/sciences-technologies-sante-STS/master-lmd-XB/master-mathematiques-et-applications-specialite-ingenierie-mathematique-pour-les-sciences-du-vivant-program-mmp42-421.html) "Mathématiques et applications" - option : "Ingénierie mathématique pour les sciences du vivant",  Paris Descartes University - Head of the Master: Etienne Birmelen & Flora Alarcon
+
+
+
 
 
