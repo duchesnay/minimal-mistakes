@@ -20,6 +20,7 @@ I am a core contributor of [ParsimonY](https://github.com/neurospin/pylearn-pars
 
 # (Former) Students in (Co-)Supervision
 
+- Pietro Gori (Post-doc, 2016-now) together with JF Mangin and J Houenou
 - Amicie de Pierrefeu (PhD, 2016-now) together with Philippe Ciuciu
 - Fouad Hadj Selem (Post-doc, 2013-2015) together with V Frouin and JF Mangin
 - Tommy Lofstedt (Post-doc, 2013-2015) together with V Frouin
