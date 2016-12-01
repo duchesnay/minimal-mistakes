@@ -12,7 +12,7 @@ Machine Learning in Neuroimaging
 
 # Summary
 
-I am a research scientist at [NeuroSpin/CEA](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), Paris-Saclay: a MRI neuroimaging center within the [CEA](http://www.cea.fr/english) (Commissariat à l'énergie atomique, Saclay, France). I am developing machine learning algorithms (classification/regression) and multivariate/univariate statistics analysis tools. Those algorithms aim to provide computer-aided diagnosis/prognosis tools or biomarkers discovering methods for brain diseases. I am now integrating genetic (DNA array) together with neuroimaging. The specificity of such data is their large dimension which requires new specific feature extraction/selection and sparse and structured machine learning (convex optimisation) algorithms.
+I am a research scientist at [NeuroSpin/CEA](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), Paris-Saclay ([map](https://goo.gl/maps/EHnp1JiFkHU2)): a MRI neuroimaging center within the [CEA](http://www.cea.fr/english) (Commissariat à l'énergie atomique, Saclay, France). I am developing machine learning algorithms (classification/regression) and multivariate/univariate statistics analysis tools. Those algorithms aim to provide computer-aided diagnosis/prognosis tools or biomarkers discovering methods for brain diseases. I am now integrating genetic (DNA array) together with neuroimaging. The specificity of such data is their large dimension which requires new specific feature extraction/selection and sparse and structured machine learning (convex optimisation) algorithms.
 
 # Scientific Computing
 
