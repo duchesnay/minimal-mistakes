@@ -8,9 +8,9 @@ permalink: /teaching/
 
 Machine Learning support for courses given in two masters:
 
-- Machine learning in Master 2 - Innovation, marché et science des données [(IMSD)](https://www.universite-paris-saclay.fr/en/education/master/m2-innovation-marche-et-science-des-donnees-imsd), Paris-Saclay University
+- **Machine learning** in [Master 2](https://www.universite-paris-saclay.fr/en/education/master/m2-innovation-marche-et-science-des-donnees-imsd) - Innovation, marché et science des données (IMSD), Paris-Saclay University
 
-- 2016-2017 Dimension reduction in [Master 1](http://odf.parisdescartes.fr/fr/formations/feuilleter-le-catalogue/sciences-technologies-sante-STS/master-lmd-XB/master-mathematiques-et-applications-specialite-ingenierie-mathematique-pour-les-sciences-du-vivant-program-mmp42-421.html) "Mathématiques et applications" - option : "Ingénierie mathématique pour les sciences du vivant",  Paris Descartes University
+- **Data analysis** in [Master 1](http://odf.parisdescartes.fr/fr/formations/feuilleter-le-catalogue/sciences-technologies-sante-STS/master-lmd-XB/master-mathematiques-et-applications-specialite-ingenierie-mathematique-pour-les-sciences-du-vivant-program-mmp42-421.html) - Mathématiques et applications - option : "Ingénierie mathématique pour les sciences du vivant",  Paris Descartes University
 
 Please note that this is only a **draft version** yet.
 
