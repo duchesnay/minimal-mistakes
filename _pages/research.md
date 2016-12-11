@@ -21,14 +21,14 @@ Although such multivariate methods can capture complex relationships in the data
 A penalty like Total Variation (TV) that exploits the natural 3D structure of the images can increase the spatial coherence of the weight map.
 ![weight_map_adni_3d_enettv](/images/weight_map_adni_3d_enettv.png "Logo Title Text 1")
 
-**Generalization to any type of data with spatial structure**
+**Generalization to any type of data with spatial structure, for instance meshes of the cortical surface**
 
 The algorithms are based on a versatile mathematical framework which authorizes a straightforward application on any type of structured input data: 3 dimensional image or meshes of the cortical surface.
 The next figure shows the weights map obtained by a classic Lasso-based algorithms on mesh of cortical thickness.
-![weight_map_adni_mesh_enet](/images/weight_map_adni_3d_enet.png "Logo Title Text 1")
+![weight_map_adni_mesh_enet](/images/weight_map_adni_mesh_enet.png "Logo Title Text 1")
 
 The next figure shows the weights map obtained by adding a TV penalty.
-![weight_map_adni_mesh_enettv](/images/weight_map_adni_3d_enettv.png "Logo Title Text 1")
+![weight_map_adni_mesh_enettv](/images/weight_map_adni_mesh_enettv.png "Logo Title Text 1")
 
 Structured sparsity based on TV provides **interpretable and stable** predictive brain maps.
 

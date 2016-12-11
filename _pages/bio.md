@@ -14,7 +14,7 @@ I received the engineer degree in software engineering from École Pour l’Info
 ## Work Experience
 
 - 2015-2016: **Senior Data Scientist Consultant** for [7circles](http://www.7circles.com/) Paris, France. Mission for [Sodexo France](http://fr.sodexo.com): development of machine learning algorithm to score Sodexo's prospects in order to select those with an high rate of conversion to lead.
-- 2008-now: **Research scientist** at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
+- 2008-now: **Research Scientist** at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
 - 2005-2008: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
 - 2003-2004: **Postdoctoral** position at CEA, Orsay, France.
 - 2002 Software **Software Engineer** at MBD.A (Matra BAe Dynamics, EADS company) Velizy, contract for ASTEK company, France.
