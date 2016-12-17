@@ -11,12 +11,12 @@ permalink: /research/
 
 ## Machine Learning with Structured Sparsity
 
-The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. 
-However, algorithms should provide interpretable solutions.
-Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images.
+The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. However, algorithms should provide interpretable solutions. Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images.
 
 Although such multivariate methods can capture complex relationships in the data, traditional approaches provide irregular or scattered (l1 penalty, see Lasso penalty the figure below) predictive pattern with a very limited relevance.
 ![weight_map_adni_3d_enet](/images/weight_map_adni_3d_enet.png "Logo Title Text 1")
+
+Essentially, we propose to extend state-of-the-art algorithms (such Elastic-net) with biolological priors to force the produced solution to adhere to some domain-specific constraints. More precisely, our first aim is to exploit the known spatial structure of the neuroimaging data that stem from meshes of cortical surface or 3D grid (volume) of the brain.
 
 A penalty like Total Variation (TV) that exploits the natural 3D structure of the images can increase the spatial coherence of the weight map.
 ![weight_map_adni_3d_enettv](/images/weight_map_adni_3d_enettv.png "Logo Title Text 1")
