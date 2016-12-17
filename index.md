@@ -5,6 +5,8 @@ author_profile: true
 date:
 ---
 
+## Edouard Duchesnay - Data Science & Neuroimaging
+
 ## Keywords
 
 Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
