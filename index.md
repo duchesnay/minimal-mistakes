@@ -5,8 +5,6 @@ author_profile: true
 date:
 ---
 
-# Keywords
-
 Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
 Machine Learning in Neuroimaging
 
