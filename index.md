@@ -1,11 +1,10 @@
 ---
 layout: single
+title: "Edouard Duchesnay - Data Science, Neuroimaging"
 permalink: /
 author_profile: true
 date:
 ---
-
-## Edouard Duchesnay - Data Science & Neuroimaging
 
 ## Keywords
 
