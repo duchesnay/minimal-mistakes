@@ -14,6 +14,8 @@ date:
 Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
 Machine Learning in Neuroimaging
 
+[Curriculum Vitae pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
+
 ## Experience
 
 - 2015-2017: **Senior data scientist consultant** [Sodexo France](http://fr.sodexo.com), Suez group, Paris region, France .
@@ -59,7 +61,7 @@ with structural constraints issued from the known biological structure
 pathways of OMICs data) in order to force the solution to adhere to
 biological priors, producing more plausible interpretable solutions.
 
-We produced a ML library in Python dedicated to high dimensional structured
+The result is a ML library in Python dedicated to high dimensional structured
 input data (Hadj-Selem et al.,  [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) preprint, 2016, in revision in
 IEEE-TMI, De Pierrefeu et al., IEEE-TMI, 2017) and
 [ParsimonY](https://github.com/neurospin/pylearn-parsimony) that is now
