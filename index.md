@@ -14,7 +14,7 @@ date:
 Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
 Machine Learning in Neuroimaging
 
-[Curriculum Vitae pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
+[Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
 
 ## Experience
 
