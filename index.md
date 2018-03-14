@@ -98,17 +98,14 @@ This course is use for three Masters:
 *2015-Now* (35h) - Machine learning in Master 2 -
 Innovation, marché et science des données
 ([IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2)),
-Paris-Saclay University. Academic head:
-<maria-eugenia.sanin@polytechnique.edu>.
+Paris-Saclay University. Academic head: Maria-Eugenia Sanin.
 
-*2016-Now* (10h) - Data analysis in Master 1 -
+*2016-2017* (10h) - Data analysis in Master 1 -
 Mathématiques et applications - option : "Ingénierie mathématique pour
-les sciences du vivant“, Paris Descartes University. Academic head:
-<etienne.birmele@parisdescartes.fr>.
+les sciences du vivant“, Paris Descartes University. Academic head: Etienne Birmele.
 
-*2017-Now* (15h) - Biostatistics $3^\text{rd}$ year of
-CentralSupelec, Paris-Saclay University. Academic head:\
-<arthur.tenenhaus@centralesupelec.fr>.
+*2017-Now* (15h) - Biostatistics 3rd year of
+CentralSupelec, Paris-Saclay University. Academic head: Arthur Tenenhaus.
 
 
 ## Supervision experience
