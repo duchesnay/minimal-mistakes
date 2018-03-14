@@ -14,9 +14,6 @@ date:
 Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
 Machine Learning in Neuroimaging
 
-
-# Short CV
-
 ## Work Experience
 
 - 2015-2017: **Senior data scientist consultant** [Sodexo France](http://fr.sodexo.com), Suez group, Paris region, France .
