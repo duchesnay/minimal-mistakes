@@ -63,7 +63,7 @@ pathways of OMICs data) in order to force the solution to adhere to
 biological priors, producing more plausible interpretable solutions.
 
 We produced a ML library in Python dedicated to high dimensional structured
-input data (Hadj-Selem et al., arXiv preprint, 2016, in revision in
+input data (Hadj-Selem et al.,  [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) preprint, 2016, in revision in
 IEEE-TMI, De Pierrefeu et al., IEEE-TMI, 2017) and
 [ParsimonY](https://github.com/neurospin/pylearn-parsimony) that is now
 used to identify neuroimaging signatures of brain disorders (De
@@ -84,6 +84,37 @@ Pierrefeu et al., Hum. Brain Mapp., 2018).
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 
+**Five most significant scientific articles**
+
+A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
+Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
+"Prediction of activation patterns preceding hallucinations in patients
+with schizophre- nia using machine learning with structured sparsity“.
+In: Human Brain Mapping (Jan. 2018).
+
+A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
+Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
+Principal Components Analysis With the TV-Elastic Net Penalty“. In: IEEE
+Transactions on Medical Imaging 37.2 (Feb. 2018), pp. 396–407.
+
+E. Jouvent, **E. Duchesnay**, F. Hadj-Selem, F. De Guio, J.-F. Mangin,
+D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
+"Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
+(2016), pp. 1787–1795.
+
+F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
+Guillemot, and **E. Duchesnay**. ”Con- tinuation of Nesterov’s Smoothing
+for Regression with Structured Sparsity in High-Dimensional
+Neuroimaging“. Major revision in IEEE Transactions on Medical Imaging.
+Preprint: [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) \[stat\]
+(May 2016). arXiv: 1605.09658.
+
+E. Le Floch, V. Guillemot, V. Frouin, P. Pinel, C. Lalanne, L.
+Trinchera, A. Tenenhaus, A. Moreno, M. Zil- bovicius, T. Bourgeron, S.
+Dehaene, B. Thirion, J.-B. Poline, and **E. Duchesnay**. "Significant
+correlation between a set of genetic polymorphisms and a functional
+brain network revealed by feature selection and sparse Partial Least
+Squares“. In: NeuroImage 63.1 (Oct. 2012), pp. 11–24.
 
 ### Patent
 
