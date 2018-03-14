@@ -6,10 +6,14 @@ author_profile: true
 date:
 ---
 
+**Research Scientist** in Machine Learning applied to NeuroImaging at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
+[ORCID:0000-0002-4073-3490](https://orcid.org/0000-0002-4073-3490)
+
 ## Keywords
 
 Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
 Machine Learning in Neuroimaging
+
 
 # Short CV
 
