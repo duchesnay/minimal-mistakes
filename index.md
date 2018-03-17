@@ -18,9 +18,6 @@ Machine Learning in Neuroimaging
 
 ## Experience
 
-- 2015-2017: **Senior data scientist consultant** [Sodexo France](http://fr.sodexo.com), Suez group, Paris region, France .
-    * Sodexo: Development of machine learning algorithm to score Sodexo’s prospects to select those with an high rate of conversion to lead.
-    * Suez group: Development of machine learning algorithm for automatic water pipes clustering.
 - 2008-now: **Research Scientist** at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
 - 2005-2008: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
 - 2003-2004: **Postdoctoral** position at CEA, Orsay, France.
@@ -85,35 +82,35 @@ Pierrefeu et al., Hum. Brain Mapp., 2018).
 
 **Five most significant scientific articles**
 
-A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
-Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
-"Prediction of activation patterns preceding hallucinations in patients
-with schizophre- nia using machine learning with structured sparsity“.
-In: Human Brain Mapping (Jan. 2018).
+-   A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
+    Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
+    "Prediction of activation patterns preceding hallucinations in patients
+    with schizophre- nia using machine learning with structured sparsity“.
+    In: Human Brain Mapping (Jan. 2018).
 
-A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
-Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
-Principal Components Analysis With the TV-Elastic Net Penalty“. In: IEEE
-Transactions on Medical Imaging 37.2 (Feb. 2018), pp. 396–407.
+-   A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
+    Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
+    Principal Components Analysis With the TV-Elastic Net Penalty“. In: IEEE
+    Transactions on Medical Imaging 37.2 (Feb. 2018), pp. 396–407.
 
-E. Jouvent, **E. Duchesnay**, F. Hadj-Selem, F. De Guio, J.-F. Mangin,
-D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
-"Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
-(2016), pp. 1787–1795.
+-   E. Jouvent, **E. Duchesnay**, F. Hadj-Selem, F. De Guio, J.-F. Mangin,
+    D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
+    "Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
+    (2016), pp. 1787–1795.
 
-F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
-Guillemot, and **E. Duchesnay**. ”Con- tinuation of Nesterov’s Smoothing
-for Regression with Structured Sparsity in High-Dimensional
-Neuroimaging“. Major revision in IEEE Transactions on Medical Imaging.
-Preprint: [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) \[stat\]
-(May 2016). arXiv: 1605.09658.
+-   F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
+    Guillemot, and **E. Duchesnay**. ”Con- tinuation of Nesterov’s Smoothing
+    for Regression with Structured Sparsity in High-Dimensional
+    Neuroimaging“. Major revision in IEEE Transactions on Medical Imaging.
+    Preprint: [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) \[stat\]
+    (May 2016). arXiv: 1605.09658.
 
-E. Le Floch, V. Guillemot, V. Frouin, P. Pinel, C. Lalanne, L.
-Trinchera, A. Tenenhaus, A. Moreno, M. Zil- bovicius, T. Bourgeron, S.
-Dehaene, B. Thirion, J.-B. Poline, and **E. Duchesnay**. "Significant
-correlation between a set of genetic polymorphisms and a functional
-brain network revealed by feature selection and sparse Partial Least
-Squares“. In: NeuroImage 63.1 (Oct. 2012), pp. 11–24.
+-   E. Le Floch, V. Guillemot, V. Frouin, P. Pinel, C. Lalanne, L.
+    Trinchera, A. Tenenhaus, A. Moreno, M. Zil- bovicius, T. Bourgeron, S.
+    Dehaene, B. Thirion, J.-B. Poline, and **E. Duchesnay**. "Significant
+    correlation between a set of genetic polymorphisms and a functional
+    brain network revealed by feature selection and sparse Partial Least
+    Squares“. In: NeuroImage 63.1 (Oct. 2012), pp. 11–24.
 
 ### Patent
 
@@ -127,54 +124,54 @@ I wrote a course on Machine Learning in Python which is available as
 (Jupyter notebooks) on [github](https://github.com/neurospin/pystatsml)
 or as
 [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf).
-This course is use for three Masters:
+This course is used for three Masters:
 
-*2015-Now* (35h) - Machine learning in Master 2 -
-Innovation, marché et science des données
-([IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2)),
-Paris-Saclay University. Academic head: Maria-Eugenia Sanin.
+- *2015-Now* (35h) - Machine learning in Master 2 -
+  Innovation, marché et science des données
+  ([IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2)),
+  Paris-Saclay University. Academic head: Maria-Eugenia Sanin.
 
-*2016-2017* (10h) - Data analysis in Master 1 -
-Mathématiques et applications - option : "Ingénierie mathématique pour
-les sciences du vivant“, Paris Descartes University. Academic head: Etienne Birmele.
+- *2016-2017* (10h) - Data analysis in Master 1 -
+  Mathématiques et applications - option : "Ingénierie mathématique pour
+  les sciences du vivant“, Paris Descartes University. Academic head: Etienne Birmele.
 
-*2017-Now* (15h) - Biostatistics 3rd year of
-CentralSupelec, Paris-Saclay University. Academic head: Arthur Tenenhaus.
+- *2017-Now* (15h) - Biostatistics 3rd year of
+  CentralSupelec, Paris-Saclay University. Academic head: Arthur Tenenhaus.
 
 
 ## Supervision experience
 
-Pauline Favre (Post-doc, *2017-now*) together with JF
-Mangin and J Houenou.
+-   Pauline Favre (Post-doc, *2017-now*) together with JF
+    Mangin and J Houenou.
 
-Amicie de Pierrefeu (PhD, *2016-now*).
+-   Amicie de Pierrefeu (PhD, *2016-now*).
 
-Pietro Gori (Post-doc, *2016*) together with JF Mangin and
-J Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
-Paris, France.
+-   Pietro Gori (Post-doc, *2016*) together with JF Mangin and
+    J Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
+    Paris, France.
 
-Fouad Hadj Selem (Post-doc, *2013-2015*). F. Hadj Selem is
-now research scientist at the Energy Transition Institute: VeDeCoM,
-France.
+-   Fouad Hadj Selem (Post-doc, *2013-2015*). F. Hadj Selem is
+    now research scientist at the Energy Transition Institute: VeDeCoM,
+    France.
 
-Tommy Lofstedt (Post-doc, *2013-2015*). T. Lofstedt is now
-research scientist in Umea University, Sweden.
+-   Tommy Lofstedt (Post-doc, *2013-2015*). T. Lofstedt is now
+    research scientist in Umea University, Sweden.
 
-Mathieu Dubois (Post-doc, *2013-2014*). Mathieu Dubois is
-now research engineer at CEA Genoscope, Evry, France.
+-   Mathieu Dubois (Post-doc, *2013-2014*). Mathieu Dubois is
+    now research engineer at CEA Genoscope, Evry, France.
 
-Clémence Pinaud (Engineer trainee *2014*). C Pinaud is now
-engineer at Dreem Co. ( <https://dreem.com>) Paris.
+-   Clémence Pinaud (Engineer trainee *2014*). C Pinaud is now
+    engineer at Dreem Co. ( <https://dreem.com>) Paris.
 
-Jinpeng Li (Research Engineer *2013-2014*). J. Li is now
-engineer at Qynapse Co. ( <http://www.qynapse.com/>) Paris.
+-   Jinpeng Li (Research Engineer *2013-2014*). J. Li is now
+    engineer at Qynapse Co. ( <http://www.qynapse.com/>) Paris.
 
-Cecilia Damon (PhD defended on *2011*) together with JB
-Poline. C. Damon is now engineer at Qynapse Co. (
-<http://www.qynapse.com/>) Paris.
+-   Cecilia Damon (PhD defended on *2011*) together with JB
+    Poline. C. Damon is now engineer at Qynapse Co. (
+    <http://www.qynapse.com/>) Paris.
 
-Edith Lefloch (PhD defended on *2012*). E Lefloch is now
-research scientist at CEA, CNRGH Evry, France.
+-   Edith Lefloch (PhD defended on *2012*). E Lefloch is now
+    research scientist at CEA, CNRGH Evry, France.
 
 
 ## Grants 
