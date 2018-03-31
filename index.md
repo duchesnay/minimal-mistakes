@@ -22,7 +22,7 @@ Machine Learning in Neuroimaging
 
 ## Experience
 
-- 2008-now: **Research Scientist** at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
+- 2008-now: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
 - 2005-2008: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
 - 2003-2004: **Postdoctoral** position at CEA, Orsay, France.
 - 2002 **Software Engineer** at MBD.A (Matra BAe Dynamics, EADS company) Velizy, contract for ASTEK company, France.
@@ -31,7 +31,7 @@ Machine Learning in Neuroimaging
 ## Education
 
 - 1999-2001 **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing) of [Rennes 1 University](https://english.univ-rennes1.fr), France.
-- 1997-1998 **Master’s degree** in [Signal/Image Processing](https://etudes.univ-rennes1.fr/master-electronique/themes/M2/PresentationSpecialite/SISEA). in [Rennes 1 University](https://english.univ-rennes1.fr), France.
+- 1997-1998 **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). in [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - 1992-1997 **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
 
 ## Bio (IEEE style)
@@ -42,7 +42,7 @@ from École Pour l’Informatique et les Techniques Avancées (France) in
 University (France) in 1998 and the Ph.D. degree in signal and image
 processing Rennes 1 University (France) in 2001.
 
-Since 2008, E. Duchesnay is a research scientist at [NeuroSpin/CEA](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx): an MRI
+Since 2008, E. Duchesnay is a research scientist at [NeuroSpin/CEA](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx): an MRI
 neuroimaging center within the [CEA](http://www.cea.fr/english). He developed multivariate machine
 learning algorithms (ML) classification/regression to capture complex
 relationships to make inferences at an individual level in the
