@@ -6,8 +6,12 @@ author_profile: true
 date:
 ---
 
-**Research Scientist** in Machine Learning applied to NeuroImaging at [NeuroSpin](http://i2bm.cea.fr/drf/i2bm/english/Pages/NeuroSpin/Presentation.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
+**Research Scientist** in Machine Learning applied to NeuroImaging at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
 [ORCID:0000-0002-4073-3490](https://orcid.org/0000-0002-4073-3490)
+
+[Machine learning](https://arxiv.org/pdf/1605.09658.pdf) to discover
+neural predictive signature of [psychiatric
+disorder](https://www.researchgate.net/publication/322539512_Prediction_of_activation_patterns_preceding_hallucinations_in_patients_with_schizophrenia_using_machine_learning_with_structured_sparsity).]
 
 ## Keywords
 
@@ -141,37 +145,38 @@ This course is used for three Masters:
 
 ## Supervision experience
 
--   Pauline Favre (Post-doc, *2017-now*) together with JF
-    Mangin and J Houenou.
 
--   Amicie de Pierrefeu (PhD, *2016-now*).
+-   *2017-now* Pauline Favre, Post-doc, together with JF Mangin and J
+    Houenou.
 
--   Pietro Gori (Post-doc, *2016*) together with JF Mangin and
-    J Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
+-   *2016-now* Amicie de Pierrefeu, PhD.
+
+-   *2016* Pietro Gori, Post-doc together with JF Mangin and J
+    Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
     Paris, France.
 
--   Fouad Hadj Selem (Post-doc, *2013-2015*). F. Hadj Selem is
-    now research scientist at the Energy Transition Institute: VeDeCoM,
+-   *2013-2015* Fouad Hadj Selem, Post-doc, F. Hadj Selem is now
+    research scientist at the Energy Transition Institute: VeDeCoM,
     France.
 
--   Tommy Lofstedt (Post-doc, *2013-2015*). T. Lofstedt is now
-    research scientist in Umea University, Sweden.
+-   *2013-2015* Tommy Lofstedt, Post-doc. T. Lofstedt is now research
+    scientist in Umea University, Sweden.
 
--   Mathieu Dubois (Post-doc, *2013-2014*). Mathieu Dubois is
-    now research engineer at CEA Genoscope, Evry, France.
+-   *2013-2014* Mathieu Dubois, Post-doc, M. Dubois is now research
+    engineer at CEA Genoscope, Evry, France.
 
--   Clémence Pinaud (Engineer trainee *2014*). C Pinaud is now
-    engineer at Dreem Co. ( <https://dreem.com>) Paris.
+-   *2014*, Clémence Pinaud, Engineer trainee. C Pinaud is now engineer
+    at [Dreems](https://dreem.com), Paris.
 
--   Jinpeng Li (Research Engineer *2013-2014*). J. Li is now
-    engineer at Qynapse Co. ( <http://www.qynapse.com/>) Paris.
+-   *2013-2014* Jinpeng Li, Research Engineer. J. Li is now engineer at
+    [Qynapse Co.](http://www.qynapse.com/), Paris.
 
--   Cecilia Damon (PhD defended on *2011*) together with JB
-    Poline. C. Damon is now engineer at Qynapse Co. (
-    <http://www.qynapse.com/>) Paris.
+-   *2009-2011* Cecilia Damon (PhD defended on *2011*) together with JB
+    Poline. C. Damon is now engineer at [Qynapse
+    Co.](http://www.qynapse.com/), Paris.
 
--   Edith Lefloch (PhD defended on *2012*). E Lefloch is now
-    research scientist at CEA, CNRGH Evry, France.
+-   *2008-2012*, Edith Lefloch (PhD defended on *2012*). E Lefloch is
+    now research scientist at CEA, CNRGH Evry, France.
 
 
 ## Grants 
