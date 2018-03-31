@@ -11,7 +11,7 @@ date:
 
 [Machine learning](https://arxiv.org/pdf/1605.09658.pdf) to discover
 neural predictive signature of [psychiatric
-disorder](https://www.researchgate.net/publication/322539512_Prediction_of_activation_patterns_preceding_hallucinations_in_patients_with_schizophrenia_using_machine_learning_with_structured_sparsity).]
+disorder](https://www.researchgate.net/publication/322539512_Prediction_of_activation_patterns_preceding_hallucinations_in_patients_with_schizophrenia_using_machine_learning_with_structured_sparsity)
 
 ## Keywords
 

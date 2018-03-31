@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "E. Duchesnay - Data Science & Neuroimaging"
+title                    : "Data Science & Neuroimaging"
 title_separator          : "-"
 name                     : "Edouard Duchesnay"
 description              : "Perso/Pro. homepage."
