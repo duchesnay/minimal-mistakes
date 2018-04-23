@@ -62,9 +62,11 @@ with structural constraints issued from the known biological structure
 pathways of OMICs data) in order to force the solution to adhere to
 biological priors, producing more plausible interpretable solutions.
 
-The result is a ML library in Python dedicated to high dimensional structured
-input data (Hadj-Selem et al.,  [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) preprint, 2016, in revision in
-IEEE-TMI, De Pierrefeu et al., IEEE-TMI, 2017) and
+The result is a ML library in Python dedicated dedicated to high
+dimensional structured input data (Hadj-Selem et al., [arXiv
+preprint](https://arxiv.org/abs/1605.09658) and
+[supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document),
+in press in IEEE-TMI, De Pierrefeu et al., IEEE-TMI, 2018) and
 [ParsimonY](https://github.com/neurospin/pylearn-parsimony) that is now
 used to identify neuroimaging signatures of brain disorders (De
 Pierrefeu et al., Hum. Brain Mapp., 2018).
@@ -86,6 +88,14 @@ Pierrefeu et al., Hum. Brain Mapp., 2018).
 
 **Five most significant scientific articles**
 
+-   F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
+    Guillemot, and **E. Duchesnay**. "Continuation of Nesterov's
+    Smoothing for Regression with Structured Sparsity in
+    High-Dimensional Neuroimaging". IEEE Transactions on Medical
+    Imaging. [arXiv:1605.09658](https://arxiv.org/abs/1605.09658)
+    \[stat\] (April 2018) and
+    [supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
+
 -   A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
     Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
     "Prediction of activation patterns preceding hallucinations in patients
@@ -101,13 +111,6 @@ Pierrefeu et al., Hum. Brain Mapp., 2018).
     D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
     "Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
     (2016), pp. 1787–1795.
-
--   F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
-    Guillemot, and **E. Duchesnay**. ”Con- tinuation of Nesterov’s Smoothing
-    for Regression with Structured Sparsity in High-Dimensional
-    Neuroimaging“. Major revision in IEEE Transactions on Medical Imaging.
-    Preprint: [arXiv:1605.09658](https://arxiv.org/abs/1605.09658) \[stat\]
-    (May 2016). arXiv: 1605.09658.
 
 -   E. Le Floch, V. Guillemot, V. Frouin, P. Pinel, C. Lalanne, L.
     Trinchera, A. Tenenhaus, A. Moreno, M. Zil- bovicius, T. Bourgeron, S.
@@ -181,20 +184,35 @@ This course is used for three Masters:
 
 ## Grants 
 
-- *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative, PI: F. Bellivier, **WP leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
+-   *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to
+    Li treatment through personalized evaluation of individuals with
+    bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP
+    leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
 
-- 2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at 7 Tesla, PI: F. Bellivier, WP leader:F Boumezbeur, Team budget: 280k€.
+-   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
+    in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
+    7 Tesla. PI: F. Bellivier, WP leader:F Boumezbeur, Team budget:
+    280k€.
 
-- *2011-2015*: MESCOG, (FP6 ERA-NET NEURON 01 EW1207) **WP co-leader: E Duchesnay**, Team budget: 195k€.
+-   *2011-2015*: MESCOG, (FP6 ERA-NET NEURON 01 EW1207). Mechanisms of
+    Small Vessel Related Brain Damage and Cognitive Impairment:
+    Integrating Imaging Findings from Genetic and Sporadic Disease. **WP
+    co-leader: E Duchesnay**, Team budget: 195k€.
 
-- *2012-2016*: BRAINOMICS (ANR-10-BINF-04), **WP leader: E Duchesnay**, Team budget: 800k€.
+-   *2012-2016*: BRAINOMICS (ANR-10-BINF-04). Methodological and
+    software solutions for the integration of neuroimaging and genomic
+    data. **WP leader: E Duchesnay**, Team budget: 800k€.
 
-- *2010-2013*: Karamétia (ANR-09-BLAN-0332), **PI: E Duchesnay**, Team budget: 200k€.
+-   *2010-2013*: Karamétria (ANR-09-BLAN-0332). A unified framework for
+    feature-based morphometry of the brain. **PI: E Duchesnay**, Team
+    budget: 200k€.
 
-- *2007-2010*: AGIR (ANR-07-NEUR-0001)**WP leader: E Duchesnay**, Team budget: 150k€.
+-   *2007-2010*: AGIR (ANR-07-NEUR-0001). AGIR -- Autism: Genetic and
+    Imaging Research. **WP leader: E Duchesnay**, Team budget: 150k€.
 
-- *2007-Present*: Contribution to the CATI platform which is a national platform created by the French Alzheimer plan in 2011 to support multicenter neuroimaging studies (9M€ grant).
-
+-   *2007-Present*: Contribution to the CATI platform which is a
+    national platform created by the French Alzheimer plan in 2011 to
+    support multicenter neuroimaging studies (9M€ grant).
 
 
 
