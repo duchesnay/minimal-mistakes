@@ -62,14 +62,14 @@ with structural constraints issued from the known biological structure
 pathways of OMICs data) in order to force the solution to adhere to
 biological priors, producing more plausible interpretable solutions.
 
-The result is a ML library in Python dedicated dedicated to high
-dimensional structured input data (Hadj-Selem et al., [arXiv
-preprint](https://arxiv.org/abs/1605.09658) and
-[supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document),
-in press in IEEE-TMI, De Pierrefeu et al., IEEE-TMI, 2018) and
-[ParsimonY](https://github.com/neurospin/pylearn-parsimony) that is now
-used to identify neuroimaging signatures of brain disorders (De
-Pierrefeu et al., Hum. Brain Mapp., 2018).
+
+The main outcome is a Python ML library called [ParsimonY](https://github.com/neurospin/pylearn-parsimony).
+This library is dedicated to high dimensional structured input data [Hadj-Selem et al., IEEE-TMI, 2018](https://arxiv.org/abs/1605.09658) and
+[supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
+It has been used to identify neuroimaging functional signature of hallucinations in patients with schizophrenia [De Pierrefeu et al., Hum. Brain Mapp., 2018](https://www.researchgate.net/publication/322539512_Prediction_of_activation_patterns_preceding_hallucinations_in_patients_with_schizophrenia_using_machine_learning_with_structured_sparsity).
+We extended the popular PCA (Principal Component Analysis) with spatial regularization to identify interpretable patterns of the
+neuroimaging variability in either functional or anatomical meshes of the cortical surface [De Pierrefeu et al., IEEE-TMI, 2018](https://arxiv.org/abs/1609.01423).
+
 
 ## Scientific impact
 
