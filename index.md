@@ -116,11 +116,11 @@ Principal Components Analysis With the TV-Elastic Net Penalty“. IEEE
 Transactions on Medical Imaging, 2018, 37 (2), pp.396 - 407
 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883278)).
 
-- Different Types of White Matter Hyperintensities in CADASIL **E.
-Duchesnay**, F. Hadj Selem, F. De Guio, M. Dubois, J.F. Mangin, M.
-Duering, S. Ropele, R. Schmidt, M. Dichgans, H. Chabriat, E. Jouvent.
-Frontiers in Neurology, Frontiers, 2018, 9, pp.526
-[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883315).
+- E. Jouvent, **E. Duchesnay**, F. Hadj-Selem, F. De Guio, J.-F. Mangin,
+D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
+"Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
+(2016), pp. 1787–1795
+[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883312v1).
 
 
 ### Patent
