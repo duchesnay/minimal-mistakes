@@ -88,36 +88,40 @@ neuroimaging variability in either functional or anatomical meshes of the cortic
 
 **Five most significant scientific articles**
 
--   F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
-    Guillemot, and **E. Duchesnay**. "Continuation of Nesterov's
-    Smoothing for Regression with Structured Sparsity in
-    High-Dimensional Neuroimaging". IEEE Transactions on Medical
-    Imaging. [arXiv:1605.09658](https://arxiv.org/abs/1605.09658)
-    \[stat\] (April 2018) and
-    [supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
+A. De Pierrefeu, T. Löfstedt, C. Laidi, F. Hadj-Selem, J. Bourgin, T.
+Hajek, F. Spaniel, M. Kolenic, P. Ciuciu, N. Hamdani, M. Leboyer, T.
+Fovet, R. Jardri, J. Houenou, **E. Duchesnay** “Identifying a
+neuroanatomical signature of schizophrenia, reproducible across sites
+and stages, using machine learning with structured sparsity” In: Acta
+Psychiatrica Scandinavica, Wiley, 2018, 2018, pp.1 - 10
+[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883283).
 
--   A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
-    Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
-    "Prediction of activation patterns preceding hallucinations in patients
-    with schizophre- nia using machine learning with structured sparsity“.
-    In: Human Brain Mapping (Jan. 2018).
+A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
+Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
+"Prediction of activation patterns preceding hallucinations in patients
+with schizophrenia using machine learning with structured sparsity“.
+Human Brain Mapping, Wiley, 2018, 39 (4), pp.1777 - 1788
+[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883271).
 
--   A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
-    Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
-    Principal Components Analysis With the TV-Elastic Net Penalty“. In: IEEE
-    Transactions on Medical Imaging 37.2 (Feb. 2018), pp. 396–407.
+F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
+Guillemot, and **E. Duchesnay**. ”Continuation of Nesterov’s Smoothing
+for Regression with Structured Sparsity in High-Dimensional
+Neuroimaging“. IEEE Transactions on Medical Imaging
+[(PDF)](https://arxiv.org/abs/1605.09658) (April 2018) and
+[supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
 
--   E. Jouvent, **E. Duchesnay**, F. Hadj-Selem, F. De Guio, J.-F. Mangin,
-    D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
-    "Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
-    (2016), pp. 1787–1795.
+A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
+Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
+Principal Components Analysis With the TV-Elastic Net Penalty“. IEEE
+Transactions on Medical Imaging, 2018, 37 (2), pp.396 - 407
+[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883278)).
 
--   E. Le Floch, V. Guillemot, V. Frouin, P. Pinel, C. Lalanne, L.
-    Trinchera, A. Tenenhaus, A. Moreno, M. Zil- bovicius, T. Bourgeron, S.
-    Dehaene, B. Thirion, J.-B. Poline, and **E. Duchesnay**. "Significant
-    correlation between a set of genetic polymorphisms and a functional
-    brain network revealed by feature selection and sparse Partial Least
-    Squares“. In: NeuroImage 63.1 (Oct. 2012), pp. 11–24.
+Different Types of White Matter Hyperintensities in CADASIL **E.
+Duchesnay**, F. Hadj Selem, F. De Guio, M. Dubois, J.F. Mangin, M.
+Duering, S. Ropele, R. Schmidt, M. Dichgans, H. Chabriat, E. Jouvent.
+Frontiers in Neurology, Frontiers, 2018, 9, pp.526
+[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883315).
+
 
 ### Patent
 
