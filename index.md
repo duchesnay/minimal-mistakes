@@ -88,7 +88,7 @@ neuroimaging variability in either functional or anatomical meshes of the cortic
 
 **Five most significant scientific articles**
 
-A. De Pierrefeu, T. Löfstedt, C. Laidi, F. Hadj-Selem, J. Bourgin, T.
+- A. De Pierrefeu, T. Löfstedt, C. Laidi, F. Hadj-Selem, J. Bourgin, T.
 Hajek, F. Spaniel, M. Kolenic, P. Ciuciu, N. Hamdani, M. Leboyer, T.
 Fovet, R. Jardri, J. Houenou, **E. Duchesnay** “Identifying a
 neuroanatomical signature of schizophrenia, reproducible across sites
@@ -96,27 +96,27 @@ and stages, using machine learning with structured sparsity” In: Acta
 Psychiatrica Scandinavica, Wiley, 2018, 2018, pp.1 - 10
 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883283).
 
-A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
+- A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
 Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
 "Prediction of activation patterns preceding hallucinations in patients
 with schizophrenia using machine learning with structured sparsity“.
 Human Brain Mapping, Wiley, 2018, 39 (4), pp.1777 - 1788
 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883271).
 
-F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
+- F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
 Guillemot, and **E. Duchesnay**. ”Continuation of Nesterov’s Smoothing
 for Regression with Structured Sparsity in High-Dimensional
 Neuroimaging“. IEEE Transactions on Medical Imaging
 [(PDF)](https://arxiv.org/abs/1605.09658) (April 2018) and
 [supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
 
-A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
+- A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
 Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
 Principal Components Analysis With the TV-Elastic Net Penalty“. IEEE
 Transactions on Medical Imaging, 2018, 37 (2), pp.396 - 407
 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883278)).
 
-Different Types of White Matter Hyperintensities in CADASIL **E.
+- Different Types of White Matter Hyperintensities in CADASIL **E.
 Duchesnay**, F. Hadj Selem, F. De Guio, M. Dubois, J.F. Mangin, M.
 Duering, S. Ropele, R. Schmidt, M. Dichgans, H. Chabriat, E. Jouvent.
 Frontiers in Neurology, Frontiers, 2018, 9, pp.526
