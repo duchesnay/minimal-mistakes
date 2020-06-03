@@ -9,20 +9,19 @@ date:
 **Research Scientist** in Machine Learning applied to NeuroImaging at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
 [ORCID:0000-0002-4073-3490](https://orcid.org/0000-0002-4073-3490)
 
-[Machine learning](https://arxiv.org/pdf/1605.09658.pdf) to discover
-neural predictive signature of [psychiatric
-disorder](https://www.researchgate.net/publication/322539512_Prediction_of_activation_patterns_preceding_hallucinations_in_patients_with_schizophrenia_using_machine_learning_with_structured_sparsity)
+I design multivariate [Machine learning](https://arxiv.org/pdf/1605.09658.pdf) (ML) algorithms to discover brain predictive signatures of psychiatric disorders in
+[Autisms](https://www.sciencedirect.com/science/article/pii/S105381191100499X) or Schizophrenia: [functional MRI](https://hal-cea.archives-ouvertes.fr/cea-01883271),
+[structural MRI](https://hal-cea.archives-ouvertes.fr/cea-01883283).
 
 ## Keywords
 
-Machine Learning, Neuroimaging, Scientific computing, Software Engineering, Bioinformatics, High Dimensional Data.
-Machine Learning in Neuroimaging
+Machine Learning -- neuroimaging -- scientific computing -- software engineering -- high dimensional data analysis
 
 [Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
 
 ## Experience
 
-- 2008-now: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
+- 2008-now: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
 - 2005-2008: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
 - 2003-2004: **Postdoctoral** position at CEA, Orsay, France.
 - 2002 **Software Engineer** at MBD.A (Matra BAe Dynamics, EADS company) Velizy, contract for ASTEK company, France.
@@ -34,50 +33,22 @@ Machine Learning in Neuroimaging
 - 1997-1998 **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). in [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - 1992-1997 **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
 
-## Bio (IEEE style)
+## Bio
 
-Edouard Duchesnay received the engineer’s degree in software engineering
-from École Pour l’Informatique et les Techniques Avancées (France) in
-1997, the M.Sc. degree in signal/image processing from Rennes 1
-University (France) in 1998 and the Ph.D. degree in signal and image
-processing Rennes 1 University (France) in 2001.
-
-Since 2008, E. Duchesnay is a research scientist at [NeuroSpin/CEA](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx): an MRI
-neuroimaging center within the [CEA](http://www.cea.fr/english). He developed multivariate machine
-learning algorithms (ML) classification/regression to capture complex
-relationships to make inferences at an individual level in the
-perspective of computer-aided diagnosis/prognosis or biomarkers
-discovery for brain diseases (Duchesnay et al., NeuroImage, 2011).
-
-To investigate genetic influence on the brain, he proposed multivariate
-latent variable models (Le Floch et al, NeuroImage, 2012) that integrate
-sparsity and specific feature selection within learning algorithms to
-alleviate large dimensionality of both imaging and genetic data.
-
-Given the limitations of state-of-the-art sparse algorithms to produce
-stable and interpretable predictive signatures, he proposed to push
-forward the regularization approaches extending classical algorithms
-with structural constraints issued from the known biological structure
-(spatial structure of the brain and the linkage disequilibrium or
-pathways of OMICs data) in order to force the solution to adhere to
-biological priors, producing more plausible interpretable solutions.
-
-
-The main outcome is a Python ML library called [ParsimonY](https://github.com/neurospin/pylearn-parsimony).
-This library is dedicated to high dimensional structured input data [Hadj-Selem et al., IEEE-TMI, 2018](https://arxiv.org/abs/1605.09658) and
-[supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
-It has been used to identify neuroimaging functional signature of hallucinations in patients with schizophrenia [De Pierrefeu et al., Hum. Brain Mapp., 2018](https://www.researchgate.net/publication/322539512_Prediction_of_activation_patterns_preceding_hallucinations_in_patients_with_schizophrenia_using_machine_learning_with_structured_sparsity).
-We extended the popular PCA (Principal Component Analysis) with spatial regularization to identify interpretable patterns of the
-neuroimaging variability in either functional or anatomical meshes of the cortical surface [De Pierrefeu et al., IEEE-TMI, 2018](https://arxiv.org/abs/1609.01423).
+Edouard Duchesnay is a research scientist at NeuroSpin, CEA, Paris-Saclay University, France. 
+Since 2003 he is designing machine learning models to discover brain imaging signatures of mental disorders.
+He explored dimension reduction and regularization strategies to overcome the “curse of dimensionality” caused by a large number of neuroimaging measurements. 
+In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
+He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image processing from Rennes 1 University (France). In 1997, he received his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
 
 
 ## Scientific impact
 
 ### Bibliometry
 
-- Publications: 58(a), 96(b)
-- Total Number of Citations: 4,258(a), 10,962(b)
-- H-Index: 18(a), 22(b)
+- Publications: 69(a), 113(b)
+- Total Number of Citations: 8, 237(a), 19, 294(b)
+- H-Index: 19(a), 23(b)
 
 (a)Web of Science, (b)Google scholar
 
@@ -88,40 +59,15 @@ neuroimaging variability in either functional or anatomical meshes of the cortic
 
 **Five most significant scientific articles**
 
-- A. De Pierrefeu, T. Löfstedt, C. Laidi, F. Hadj-Selem, J. Bourgin, T.
-Hajek, F. Spaniel, M. Kolenic, P. Ciuciu, N. Hamdani, M. Leboyer, T.
-Fovet, R. Jardri, J. Houenou, **E. Duchesnay** “Identifying a
-neuroanatomical signature of schizophrenia, reproducible across sites
-and stages, using machine learning with structured sparsity” In: Acta
-Psychiatrica Scandinavica, Wiley, 2018, 2018, pp.1 - 10
-[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883283).
+- A. De Pierrefeu, T. Löfstedt, C. Laidi, F. Hadj-Selem, J. Bourgin, T. Hajek, F. Spaniel, M. Kolenic, P. Ciuciu, N. Hamdani, M. Leboyer, T. Fovet, R. Jardri, J. Houenou, **E. Duchesnay** ``Identifying a neuroanatomical signature of schizophrenia, reproducible across sites and stages, using machine learning with structured sparsity'' In: Acta Psychiatrica Scandinavica, Wiley, 2018, 2018, pp.1 - 10 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883283).
 
-- A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S.
-Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**.
-"Prediction of activation patterns preceding hallucinations in patients
-with schizophrenia using machine learning with structured sparsity“.
-Human Brain Mapping, Wiley, 2018, 39 (4), pp.1777 - 1788
-[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883271).
+- A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S. Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay**. ``Prediction of activation patterns preceding hallucinations in patients with schizophrenia using machine learning with structured sparsity''. Human Brain Mapping, Wiley, 2018, 39 (4), pp.1777 - 1788 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883271).
 
-- F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V.
-Guillemot, and **E. Duchesnay**. ”Continuation of Nesterov’s Smoothing
-for Regression with Structured Sparsity in High-Dimensional
-Neuroimaging“. IEEE Transactions on Medical Imaging
-[(PDF)](https://arxiv.org/abs/1605.09658) (April 2018) and
-[supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
+- F. Hadj-Selem, T. Lofstedt, E. Dohmatob, V. Frouin, M. Dubois, V. Guillemot, and **E. Duchesnay**. ''Continuation of Nesterov’s Smoothing for Regression with Structured Sparsity in High-Dimensional Neuroimaging``. IEEE Transactions on Medical Imaging [(PDF)](https://arxiv.org/abs/1605.09658) (April 2018) and [supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
 
-- A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T.
-Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. "Structured Sparse
-Principal Components Analysis With the TV-Elastic Net Penalty“. IEEE
-Transactions on Medical Imaging, 2018, 37 (2), pp.396 - 407
-[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883278)).
+- A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T. Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay**. ``Structured Sparse Principal Components Analysis With the TV-Elastic Net Penalty''. IEEE Transactions on Medical Imaging, 2018, 37 (2), pp.396 - 407  [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883278).
 
-- E. Jouvent, **E. Duchesnay**, F. Hadj-Selem, F. De Guio, J.-F. Mangin,
-D. Hervé, M. Duering, S. Ropele, R. Schmidt, M. Dichgans, et al.
-"Prediction of 3-year clinical course in CADASIL“. In: Neurology 87.17
-(2016), pp. 1787–1795
-[(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883312v1).
-
+- F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and **E. Duchesnay**. “Scikit-learn: Machine Learning in Python”. In: Journal of Machine Learning Research 12.Oct (Jan. 2012).
 
 ### Patent
 
@@ -137,26 +83,33 @@ or as
 [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf).
 This course is used for three Masters:
 
-- *2015-Now* (35h) - Machine learning in Master 2 -
-  Innovation, marché et science des données
-  ([IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2)),
-  Paris-Saclay University. Academic head: Maria-Eugenia Sanin.
+- *2015-Now* - Machine learning in 2nd & 3rd years of EPITA, Kremlin-Bicètre, [Image processing option](https://www.epita.fr/nos-formations/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-IMAGE), head: Guillaume Tochon.
 
-- *2016-2017* (10h) - Data analysis in Master 1 -
+- *2017-Now* - Biostatistics 3rd year of
+  CentralSupelec, Paris-Saclay University. Academic head: Arthur Tenenhaus.
+  
+ - 2018-Now - Machine learning in Master 2 Modelisations Statistiques Economique & Financieres [MoSeF](https://www.pantheonsorbonne.fr/diplomes/master-mosef). Panthéon Sorbonne Paris 1 University, head: Rania Hentati Kaffel.
+ 
+- *2015-Now* - Machine learning in Master 2 -
+  Innovation, marché et science des données
+  [IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2),
+  Paris-Saclay University. Academic head: Ekaterina Kalugina.
+  
+- *2016-2017* - Data analysis in Master 1 -
   Mathématiques et applications - option : "Ingénierie mathématique pour
   les sciences du vivant“, Paris Descartes University. Academic head: Etienne Birmele.
-
-- *2017-Now* (15h) - Biostatistics 3rd year of
-  CentralSupelec, Paris-Saclay University. Academic head: Arthur Tenenhaus.
 
 
 ## Supervision experience
 
+-   *2019-now* Anton Iftimovici, PhD, together with MO Krebs.
 
--   *2017-now* Pauline Favre, Post-doc, together with JF Mangin and J
+-   *2019-now* Benoit Dufumier, PhD, , together with A Tenenhaus.
+
+-   *2017-2019* Pauline Favre, Post-doc, together with JF Mangin and J
     Houenou.
 
--   *2016-now* Amicie de Pierrefeu, PhD.
+-   *2016-2019* Amicie de Pierrefeu, PhD.
 
 -   *2016* Pietro Gori, Post-doc together with JF Mangin and J
     Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
@@ -188,10 +141,11 @@ This course is used for three Masters:
 
 ## Grants 
 
--   *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to
-    Li treatment through personalized evaluation of individuals with
-    bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP
-    leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
+ -   *2020-2025*:  [Artificial Intelligence (AI) Chair](https://dataia.eu/index.php/en/actualites/resultats-de-lappel-anr-chaires-ia). Big2small Transfer Learning from Big data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. **PI: E Duchesnay**.
+
+ -   *2019-2024*:  PsyCARE (RHU). Preventing psychosis through personalized care. PI: MO Krebs,**WP leader: E Duchesnay**, Team budget: 715k€.
+ 
+-   *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
 
 -   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
     in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
