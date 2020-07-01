@@ -69,14 +69,7 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 
 - F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and **E. Duchesnay**. “Scikit-learn: Machine Learning in Python”. In: Journal of Machine Learning Research 12.Oct (Jan. 2012).
 
-### Patent
-
-[PCT/FR2010/050431](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2010103248):
-Inventors: **Duchesnay, Edouard**; Paillere, Marie-Laure; Cachia,
-Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Information Prediction Device, Use Thereof, and Corresponding Storage Medium and Apparatus“.
-
-
-## Grants 
+### Grants 
 
  -   *2020-2025*:  [Artificial Intelligence (AI) Chair](https://dataia.eu/index.php/en/actualites/resultats-de-lappel-anr-chaires-ia). Big2small Transfer Learning from Big data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. **PI: E Duchesnay**.
 
@@ -108,6 +101,12 @@ Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Informati
 -   *2007-Present*: Contribution to the CATI platform which is a
     national platform created by the French Alzheimer plan in 2011 to
     support multicenter neuroimaging studies (9M€ grant).
+
+### Patent
+
+[PCT/FR2010/050431](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2010103248):
+Inventors: **Duchesnay, Edouard**; Paillere, Marie-Laure; Cachia,
+Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Information Prediction Device, Use Thereof, and Corresponding Storage Medium and Apparatus“.
 
 
 ## Teaching
