@@ -79,20 +79,20 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 
 -   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
     in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
-    7 Tesla. PI: F. Bellivier, WP leader:F Boumezbeur, Team budget:
+    7 Tesla. PI: F Bellivier, WP leader:F Boumezbeur, Team budget:
     280k€.
 
 -   *2011-2015*: MESCOG, (FP6 ERA-NET NEURON 01 EW1207). Mechanisms of
     Small Vessel Related Brain Damage and Cognitive Impairment:
-    Integrating Imaging Findings from Genetic and Sporadic Disease. PI: M. Dichgans, **WP
+    Integrating Imaging Findings from Genetic and Sporadic Disease. PI: M Dichgans, **WP
     co-leader: E Duchesnay**, Team budget: 195k€.
 
 -   *2012-2016*: BRAINOMICS (ANR-10-BINF-04). Methodological and
     software solutions for the integration of neuroimaging and genomic
-    data. **WP leader: E Duchesnay**, Team budget: 800k€.
+    data. PI: V Frouin, **WP leader: E Duchesnay**, Team budget: 800k€.
 
 -   *2010-2013*: Karamétria (ANR-09-BLAN-0332). A unified framework for
-    feature-based morphometry of the brain. **PI: E Duchesnay**, Team
+    feature-based morphometry of the brain. **PI: E Duchesnay** with A Roche, Team
     budget: 200k€.
 
 -   *2007-2010*: AGIR (ANR-07-NEUR-0001). AGIR -- Autism: Genetic and
@@ -100,7 +100,7 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 
 -   *2007-Present*: Contribution to the CATI platform which is a
     national platform created by the French Alzheimer plan in 2011 to
-    support multicenter neuroimaging studies (9M€ grant).
+    support multicenter neuroimaging studies (9M€ grant). PI: JF Mangin.
 
 ### Patent
 
