@@ -75,29 +75,63 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 Inventors: **Duchesnay, Edouard**; Paillere, Marie-Laure; Cachia,
 Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Information Prediction Device, Use Thereof, and Corresponding Storage Medium and Apparatus“.
 
+
+## Grants 
+
+ -   *2020-2025*:  [Artificial Intelligence (AI) Chair](https://dataia.eu/index.php/en/actualites/resultats-de-lappel-anr-chaires-ia). Big2small Transfer Learning from Big data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. **PI: E Duchesnay**.
+
+ -   *2019-2024*:  PsyCARE (RHU). Preventing psychosis through personalized care. PI: MO Krebs,**WP leader: E Duchesnay**, Team budget: 715k€.
+ 
+-   *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
+
+-   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
+    in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
+    7 Tesla. PI: F. Bellivier, WP leader:F Boumezbeur, Team budget:
+    280k€.
+
+-   *2011-2015*: MESCOG, (FP6 ERA-NET NEURON 01 EW1207). Mechanisms of
+    Small Vessel Related Brain Damage and Cognitive Impairment:
+    Integrating Imaging Findings from Genetic and Sporadic Disease. PI: M. Dichgans, **WP
+    co-leader: E Duchesnay**, Team budget: 195k€.
+
+-   *2012-2016*: BRAINOMICS (ANR-10-BINF-04). Methodological and
+    software solutions for the integration of neuroimaging and genomic
+    data. **WP leader: E Duchesnay**, Team budget: 800k€.
+
+-   *2010-2013*: Karamétria (ANR-09-BLAN-0332). A unified framework for
+    feature-based morphometry of the brain. **PI: E Duchesnay**, Team
+    budget: 200k€.
+
+-   *2007-2010*: AGIR (ANR-07-NEUR-0001). AGIR -- Autism: Genetic and
+    Imaging Research. PI: M. Zilbovicius, **WP leader: E Duchesnay**, Team budget: 150k€.
+
+-   *2007-Present*: Contribution to the CATI platform which is a
+    national platform created by the French Alzheimer plan in 2011 to
+    support multicenter neuroimaging studies (9M€ grant).
+
+
 ## Teaching
 
 I wrote a course on Machine Learning in Python which is available as
-(Jupyter notebooks) on [github](https://github.com/neurospin/pystatsml)
+(Jupyter notebooks) on [github](https://github.com/duchesnay/pystatsml)
 or as
 [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPythonDraft.pdf).
-This course is used for three Masters:
+I deliver lectures on machine learning/statistics in:
 
-- *2015-Now* - Machine learning in 2nd & 3rd years of EPITA, Kremlin-Bicètre, [Image processing option](https://www.epita.fr/nos-formations/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-IMAGE), head: Guillaume Tochon.
+- *2019-Now* - Machine learning in 2nd & 3rd years of EPITA, Kremlin-Bicètre, [Image processing option](https://www.epita.fr/nos-formations/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-IMAGE), head: Elodie Puybareau and Guillaume Tochon.
 
-- *2017-Now* - Biostatistics 3rd year of
-  CentralSupelec, Paris-Saclay University. Academic head: Arthur Tenenhaus.
+- *2017-Now* - Biostatistics 3rd year of CentralSupelec, Paris-Saclay University, head: Arthur Tenenhaus.
   
- - 2018-Now - Machine learning in Master 2 Modelisations Statistiques Economique & Financieres [MoSeF](https://www.pantheonsorbonne.fr/diplomes/master-mosef). Panthéon Sorbonne Paris 1 University, head: Rania Hentati Kaffel.
+- *2018-Now* - Machine learning in Master 2 Modelisations Statistiques Economique & Financieres [MoSeF](https://www.pantheonsorbonne.fr/diplomes/master-mosef). Panthéon Sorbonne Paris 1 University, head: Rania Hentati Kaffel.
  
 - *2015-Now* - Machine learning in Master 2 -
   Innovation, marché et science des données
   [IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2),
-  Paris-Saclay University. Academic head: Ekaterina Kalugina.
+  Paris-Saclay University, head: Ekaterina Kalugina.
   
 - *2016-2017* - Data analysis in Master 1 -
   Mathématiques et applications - option : "Ingénierie mathématique pour
-  les sciences du vivant“, Paris Descartes University. Academic head: Etienne Birmele.
+  les sciences du vivant“, Paris Descartes University, head: Etienne Birmele.
 
 
 ## Supervision experience
@@ -137,40 +171,6 @@ This course is used for three Masters:
 
 -   *2008-2012*, Edith Lefloch (PhD defended on *2012*). E Lefloch is
     now research scientist at CEA, CNRGH Evry, France.
-
-
-## Grants 
-
- -   *2020-2025*:  [Artificial Intelligence (AI) Chair](https://dataia.eu/index.php/en/actualites/resultats-de-lappel-anr-chaires-ia). Big2small Transfer Learning from Big data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. **PI: E Duchesnay**.
-
- -   *2019-2024*:  PsyCARE (RHU). Preventing psychosis through personalized care. PI: MO Krebs,**WP leader: E Duchesnay**, Team budget: 715k€.
- 
--   *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
-
--   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
-    in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
-    7 Tesla. PI: F. Bellivier, WP leader:F Boumezbeur, Team budget:
-    280k€.
-
--   *2011-2015*: MESCOG, (FP6 ERA-NET NEURON 01 EW1207). Mechanisms of
-    Small Vessel Related Brain Damage and Cognitive Impairment:
-    Integrating Imaging Findings from Genetic and Sporadic Disease. **WP
-    co-leader: E Duchesnay**, Team budget: 195k€.
-
--   *2012-2016*: BRAINOMICS (ANR-10-BINF-04). Methodological and
-    software solutions for the integration of neuroimaging and genomic
-    data. **WP leader: E Duchesnay**, Team budget: 800k€.
-
--   *2010-2013*: Karamétria (ANR-09-BLAN-0332). A unified framework for
-    feature-based morphometry of the brain. **PI: E Duchesnay**, Team
-    budget: 200k€.
-
--   *2007-2010*: AGIR (ANR-07-NEUR-0001). AGIR -- Autism: Genetic and
-    Imaging Research. **WP leader: E Duchesnay**, Team budget: 150k€.
-
--   *2007-Present*: Contribution to the CATI platform which is a
-    national platform created by the French Alzheimer plan in 2011 to
-    support multicenter neuroimaging studies (9M€ grant).
 
 
 
