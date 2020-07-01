@@ -46,9 +46,9 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 
 ### Bibliometry
 
-- Publications: 69(a), 113(b)
-- Total Number of Citations: 8, 237(a), 19, 294(b)
-- H-Index: 19(a), 23(b)
+- Publications: 52(a), 113(b)
+- Total Number of Citations: 12,800(a), 30,771(b)
+- H-Index: 19(a), 25(b)
 
 (a)Web of Science, (b)Google scholar
 
