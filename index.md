@@ -57,7 +57,8 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 
-**Five most significant scientific articles**
+
+### Five most significant scientific articles
 
 - A. De Pierrefeu, T. Löfstedt, C. Laidi, F. Hadj-Selem, J. Bourgin, T. Hajek, F. Spaniel, M. Kolenic, P. Ciuciu, N. Hamdani, M. Leboyer, T. Fovet, R. Jardri, J. Houenou, **E. Duchesnay** ``Identifying a neuroanatomical signature of schizophrenia, reproducible across sites and stages, using machine learning with structured sparsity'' In: Acta Psychiatrica Scandinavica, Wiley, 2018, 2018, pp.1 - 10 [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883283).
 
@@ -135,15 +136,23 @@ I deliver lectures on machine learning/statistics in:
 
 ## Supervision experience
 
+### Ph.D.
+
 -   *2019-now* Anton Iftimovici, PhD, together with MO Krebs.
 
--   *2019-now* Benoit Dufumier, PhD, , together with A Tenenhaus.
+-   *2019-now* Benoit Dufumier together with A Tenenhaus.
+
+-   *2016-2019* Amicie de Pierrefeu.
+
+-   *2009-2011* Cecilia Damon together with JB Poline.
+
+-   *2008-2012*, Edith Lefloch is now research scientist at CEA, CNRGH Evry, France.
+
+### Post-doc
 
 -   *2017-2019* Pauline Favre, Post-doc, together with JF Mangin and J
     Houenou.
-
--   *2016-2019* Amicie de Pierrefeu, PhD.
-
+    
 -   *2016* Pietro Gori, Post-doc together with JF Mangin and J
     Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
     Paris, France.
@@ -152,25 +161,15 @@ I deliver lectures on machine learning/statistics in:
     research scientist at the Energy Transition Institute: VeDeCoM,
     France.
 
--   *2013-2015* Tommy Lofstedt, Post-doc. T. Lofstedt is now research
-    scientist in Umea University, Sweden.
+-   *2013-2015* Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
 
--   *2013-2014* Mathieu Dubois, Post-doc, M. Dubois is now research
-    engineer at CEA Genoscope, Evry, France.
+### Engineer
 
--   *2014*, Clémence Pinaud, Engineer trainee. C Pinaud is now engineer
-    at [Dreems](https://dreem.com), Paris.
+-   *2013-2014* Mathieu Dubois, Post-doc, M. Dubois is now research engineer at CEA Genoscope, Evry, France.
 
--   *2013-2014* Jinpeng Li, Research Engineer. J. Li is now engineer at
-    [Qynapse Co.](http://www.qynapse.com/), Paris.
+-   *2014*, Clémence Pinaud, Engineer trainee. C Pinaud is now engineer at [Dreems](https://dreem.com), Paris.
 
--   *2009-2011* Cecilia Damon (PhD defended on *2011*) together with JB
-    Poline. C. Damon is now engineer at [Qynapse
-    Co.](http://www.qynapse.com/), Paris.
-
--   *2008-2012*, Edith Lefloch (PhD defended on *2012*). E Lefloch is
-    now research scientist at CEA, CNRGH Evry, France.
-
+-   *2013-2014* Jinpeng Li, Research Engineer. Jinpeng Li, Research Engineer. J. Li is now data scientist at Alibaba Cloud.
 
 
 {% include base_path %}
