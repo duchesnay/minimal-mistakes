@@ -12,21 +12,19 @@ I design multivariate [machine learning](https://arxiv.org/pdf/1605.09658.pdf) (
 [Autisms](https://www.sciencedirect.com/science/article/pii/S105381191100499X) or Schizophrenia: [functional MRI](https://hal-cea.archives-ouvertes.fr/cea-01883271),
 [structural MRI](https://hal-cea.archives-ouvertes.fr/cea-01883283).
 
+## Keywords
+
+Machine Learning -- neuroimaging -- scientific computing -- software engineering -- high dimensional data analysis
+
 Sources:
 
 - [Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
-- [Habilitation thesis](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)
+- [Habilitation thesis in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)
 - [ORCID](https://orcid.org/0000-0002-4073-3490)
 - [github](https://github.com/duchesnay)
 - [publons](https://publons.com/researcher/3743010/edouard-duchesnay/)
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
-
-
-## Keywords
-
-Machine Learning -- neuroimaging -- scientific computing -- software engineering -- high dimensional data analysis
-
 
 ## Experience
 
@@ -60,7 +58,7 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 - Total Number of Citations: 15,551(a), 35,959(b)
 - H-Index: 22(a), 27(b)
 
-(a)[Publons](https://publons.com/researcher/3743010/edouard-duchesnay/)(Web of Science), (b)[Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
+(a) [Publons](https://publons.com/researcher/3743010/edouard-duchesnay/) (Web of Science), (b) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
 
 ### Publications
 
