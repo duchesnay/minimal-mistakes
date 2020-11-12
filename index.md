@@ -6,18 +6,27 @@ author_profile: true
 date:
 ---
 
-**Research Scientist** in Machine Learning applied to NeuroImaging at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
-[ORCID:0000-0002-4073-3490](https://orcid.org/0000-0002-4073-3490)
+**Research Scientist** in Machine Learning Applied to NeuroImaging at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Paris-Saclay, France.
 
-I design multivariate [Machine learning](https://arxiv.org/pdf/1605.09658.pdf) (ML) algorithms to discover brain predictive signatures of psychiatric disorders in
+I design multivariate [machine learning](https://arxiv.org/pdf/1605.09658.pdf) (ML) algorithms to discover brain predictive signatures of psychiatric disorders in
 [Autisms](https://www.sciencedirect.com/science/article/pii/S105381191100499X) or Schizophrenia: [functional MRI](https://hal-cea.archives-ouvertes.fr/cea-01883271),
 [structural MRI](https://hal-cea.archives-ouvertes.fr/cea-01883283).
+
+Sources:
+
+- [Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
+- [Habilitation thesis](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)
+- [ORCID](https://orcid.org/0000-0002-4073-3490)
+- [github](https://github.com/duchesnay)
+- [publons](https://publons.com/researcher/3743010/edouard-duchesnay/)
+- [Zotero](https://www.zotero.org/edouard.duchesnay)
+- [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
+
 
 ## Keywords
 
 Machine Learning -- neuroimaging -- scientific computing -- software engineering -- high dimensional data analysis
 
-[Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
 
 ## Experience
 
