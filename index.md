@@ -120,10 +120,12 @@ Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Informati
 
 ## Teaching
 
-I wrote a course on Machine Learning in Python which is available as
-(Jupyter notebooks) on [github](https://github.com/duchesnay/pystatsml)
-or as
-[pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPython.pdf).
+I wrote a course on Statistics and Machine Learning in Python:
+
+- [github: Jupyter notebooks and python sources](https://github.com/duchesnay/pystatsml)
+- [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPython.pdf)
+- [www](https://duchesnay.github.io/pystatsml)
+
 I deliver lectures on machine learning/statistics in:
 
 - *2017-Now* - Biostatistics 3rd year of CentralSupelec, Paris-Saclay University, head: Arthur Tenenhaus.
