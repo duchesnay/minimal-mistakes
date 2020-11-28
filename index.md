@@ -16,15 +16,16 @@ I design multivariate [machine learning](https://arxiv.org/pdf/1605.09658.pdf) (
 
 Machine Learning -- neuroimaging -- scientific computing -- software engineering -- high dimensional data analysis
 
-Sources:
+## Links
 
-- [Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
-- [Habilitation thesis in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)
+- [Github](https://github.com/duchesnay)
 - [ORCID](https://orcid.org/0000-0002-4073-3490)
-- [github](https://github.com/duchesnay)
-- [publons](https://publons.com/researcher/3743010/edouard-duchesnay/)
+- [Publons](https://publons.com/researcher/3743010/edouard-duchesnay/)
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
+- [Course: Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
+- [Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
+- [Habilitation thesis in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)
 
 ## Experience
 
