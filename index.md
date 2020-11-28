@@ -37,7 +37,7 @@ Machine Learning -- neuroimaging -- scientific computing -- software engineering
 
 ## Education
 
-- 2020 **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France ().
+- 2020 **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
 - 1999-2001 **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - 1997-1998 **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - 1992-1997 **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
@@ -121,11 +121,7 @@ Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Informati
 
 ## Teaching
 
-I wrote a course on Statistics and Machine Learning in Python:
-
-- [github: Jupyter notebooks and python sources](https://github.com/duchesnay/pystatsml)
-- [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPython.pdf)
-- [www](https://duchesnay.github.io/pystatsml)
+I wrote a course on [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml), [github: Jupyter notebooks and python sources](https://github.com/duchesnay/pystatsml) and [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPython.pdf).
 
 I deliver lectures on machine learning/statistics in:
 
@@ -153,13 +149,14 @@ I deliver lectures on machine learning/statistics in:
 
 -   *2019-now* Anton Iftimovici, together with MO Krebs.
 
--   *2019-now* Benoit Dufumier together with A Tenenhaus.
+-   *2019-now* Benoit Dufumier together with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
 
--   *2016-2019* Amicie de Pierrefeu.
+-   *2016-2019* Amicie de Pierrefeu together with Philippe Ciuciu.
+
+-   *2008-2012*, Edith Lefloch is now research scientist at CEA, CNRGH Evry, France.
 
 -   *2009-2011* Cecilia Damon together with JB Poline.
 
--   *2008-2012*, Edith Lefloch is now research scientist at CEA, CNRGH Evry, France.
 
 ### Post-doc
 
@@ -177,6 +174,8 @@ I deliver lectures on machine learning/statistics in:
 -   *2013-2015* Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
 
 ### Engineer
+
+-   *2019-Now* Julie victor.
 
 -   *2013-2014* Mathieu Dubois, Post-doc, M. Dubois is now research engineer at CEA Genoscope, Evry, France.
 
