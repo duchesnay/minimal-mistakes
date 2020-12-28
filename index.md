@@ -29,18 +29,18 @@ Machine Learning -- neuroimaging -- scientific computing -- software engineering
 
 ## Experience
 
-- 2008-now: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
-- 2005-2008: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
-- 2003-2004: **Postdoctoral** position at CEA, Orsay, France.
-- 2002 **Software Engineer** at MBD.A (Matra BAe Dynamics, EADS company) Velizy, contract for ASTEK company, France.
-- 2001-2002: **Teaching and Research Assistant** at [Rennes 1 University](https://english.univ-rennes1.fr), France.
+- *2008-now*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
+- *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
+- *2003-2004*: **Postdoctoral** position at CEA, Orsay, France.
+- *2002*: **Software Engineer** at MBD.A (Matra BAe Dynamics, EADS company) Velizy, contract for ASTEK company, France.
+- *2001-2002*: **Teaching and Research Assistant** at [Rennes 1 University](https://english.univ-rennes1.fr), France.
 
 ## Education
 
-- 2020 **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
-- 1999-2001 **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing). [Rennes 1 University](https://english.univ-rennes1.fr), France.
-- 1997-1998 **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
-- 1992-1997 **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
+- *2020*: **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *1999-2001*: **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing). [Rennes 1 University](https://english.univ-rennes1.fr), France.
+- *1997-1998*: **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
+- *1992-1997*: **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
 
 ## Bio
 
@@ -56,7 +56,7 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 ### Bibliometry
 
 - Publications: 80(a), 127(b)
-- Total Number of Citations: 15,551(a), 35,959(b)
+- Total Number of Citations: 16,239(a), 35,959(b)
 - H-Index: 22(a), 27(b)
 
 (a) [Publons](https://publons.com/researcher/3743010/edouard-duchesnay/) (Web of Science), (b) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
@@ -125,19 +125,17 @@ I wrote a course on [Statistics and Machine Learning in Python](https://duchesna
 
 I deliver lectures on machine learning/statistics in:
 
-- *2017-Now* - Biostatistics 3rd year of CentralSupelec, Paris-Saclay University, head: Arthur Tenenhaus.
+- *2019-Now* Introduction to AI: main algorithms of machine learning in Master 2 [radiophysique médicale](https://www.universite-paris-saclay.fr/formation/master/physique/m2-radiophysique-medicale) Paris-Saclay University.
+
+- *2017-Now* Biostatistics 3rd year of CentralSupelec, Paris-Saclay University, head: Arthur Tenenhaus.
   
-- *2018-Now* - Machine learning in Master 2 Modelisations Statistiques Economique & Financieres [MoSeF](https://www.pantheonsorbonne.fr/diplomes/master-mosef). Panthéon Sorbonne Paris 1 University, head: Rania Hentati Kaffel.
+- *2018-Now* Machine learning in Master 2 Modelisations Statistiques Economique & Financieres [MoSeF](https://www.pantheonsorbonne.fr/diplomes/master-mosef), Panthéon Sorbonne Paris 1 University, head: Rania Hentati Kaffel.
  
-- *2015-Now* - Machine learning in Master 2 -
-  Innovation, marché et science des données
-  [IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2),
-  Paris-Saclay University, head: Ekaterina Kalugina.
+- *2015-Now* Machine learning in Master 2 Innovation, marché et science des données [IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2), Paris-Saclay University, head: Ekaterina Kalugina.
 
-- *2019-Now* - Machine learning in 2nd & 3rd years of EPITA, Kremlin-Bicètre, [Image processing option](https://www.epita.fr/nos-formations/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-IMAGE), head: Elodie Puybareau and Guillaume Tochon.
+- *2019-2020* Machine learning in 2nd & 3rd years of EPITA, Kremlin-Bicètre, [Image processing option](https://www.epita.fr/nos-formations/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-IMAGE), head: Elodie Puybareau and Guillaume Tochon.
 
-- *2016-2017* - Data analysis in Master 1 -
-  Mathématiques et applications - option : "Ingénierie mathématique pour
+- *2016-2017* Data analysis in Master 1 Mathématiques et applications, option "Ingénierie mathématique pour
   les sciences du vivant“, Paris Descartes University, head: Etienne Birmele.
 
 
@@ -145,44 +143,27 @@ I deliver lectures on machine learning/statistics in:
 
 ### Ph.D.
 
--   *2020-now* Robin Louiset together with Pietro Gori and Antoine Grigis.
-
--   *2019-now* Anton Iftimovici, together with MO Krebs.
-
--   *2019-now* Benoit Dufumier together with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
-
--   *2016-2019* Amicie de Pierrefeu together with Philippe Ciuciu.
-
--   *2008-2012*, Edith Lefloch is now research scientist at CEA, CNRGH Evry, France.
-
--   *2009-2011* Cecilia Damon together with JB Poline.
+- *2020-now*: Robin Louiset together with Pietro Gori and Antoine Grigis.
+- *2019-now*: Anton Iftimovici, together with MO Krebs.
+- *2019-now*: Benoit Dufumier together with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
+- *2016-2019*: Amicie de Pierrefeu together with Philippe Ciuciu.
+- *2008-2012*: Edith Lefloch is now research scientist at CEA, CNRGH Evry, France.
+- *2009-2011*: Cecilia Damon together with JB Poline.
 
 
 ### Post-doc
 
--   *2017-2019* Pauline Favre, Post-doc, together with JF Mangin and J
-    Houenou.
-    
--   *2016* Pietro Gori, Post-doc together with JF Mangin and J
-    Houenou. P. Gori is now Assistant Professor at Télécom ParisTech,
-    Paris, France.
-
--   *2013-2015* Fouad Hadj Selem, Post-doc, F. Hadj Selem is now
-    research scientist at the Energy Transition Institute: VeDeCoM,
-    France.
-
--   *2013-2015* Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
+- *2017-2019*: Pauline Favre, Post-doc, together with JF Mangin and J. Houenou.
+- *2016*: Pietro Gori, Post-doc together with JF Mangin and J. Houenou. P. Gori is now Assistant Professor at Télécom ParisTech, Paris, France.
+- *2013-2015* Fouad Hadj Selem, Post-doc, F. Hadj Selem is now research scientist at the Energy Transition Institute: VeDeCoM, France.
+- *2013-2015*: Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
 
 ### Engineer
 
--   *2019-Now* Julie victor.
-
--   *2013-2014* Mathieu Dubois, Post-doc, M. Dubois is now research engineer at CEA Genoscope, Evry, France.
-
--   *2014*, Clémence Pinaud, Engineer trainee. C Pinaud is now engineer at [Dreems](https://dreem.com), Paris.
-
--   *2013-2014* Jinpeng Li, Research Engineer. Jinpeng Li, Research Engineer. J. Li is now data scientist at Alibaba Cloud.
-
+-   *2019-Now*: Julie victor.
+-   *2013-2014*: Mathieu Dubois, Post-doc, M. Dubois is now research engineer at CEA Genoscope, Evry, France.
+-   *2014*: Clémence Pinaud, Engineer trainee. C Pinaud is now engineer at [Dreems](https://dreem.com), Paris.
+-   *2013-2014*: Jinpeng Li, Research Engineer. Jinpeng Li, Research Engineer. J. Li is now data scientist at Alibaba Cloud.
 
 {% include base_path %}
 
