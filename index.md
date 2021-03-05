@@ -83,9 +83,9 @@ He received his Ph.D. in 2001 and M.S. degree in 1998 in signal and image proces
 
  -   *2020-2025*:  [Artificial Intelligence (AI) Chair](https://dataia.eu/index.php/en/actualites/resultats-de-lappel-anr-chaires-ia). Big2small Transfer Learning from Big data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. **PI: E Duchesnay**.
 
- -   *2019-2024*:  PsyCARE (RHU). Preventing psychosis through personalized care. PI: MO Krebs,**WP leader: E Duchesnay**, Team budget: 715k€.
+ -   *2019-2024*:  [PsyCARE (RHU)](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs,**WP leader: E Duchesnay**, Team budget: 715k€.
  
--   *2018-2023*: R-LiNK (H2020-SC1-2017, 754907). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
+-   *2018-2023*: [R-LiNK (H2020-SC1-2017, 754907)](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. PI: F. Bellivier, **WP leader: E Duchesnay** and leader for the CEA, Team budget: 800k€.
 
 -   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
     in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
