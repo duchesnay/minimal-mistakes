@@ -24,8 +24,8 @@ Machine Learning -- neuroimaging -- scientific computing -- software engineering
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 - [Course: Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
-- [Curriculum Vitae in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/cv_educhesnay_univ.pdf)
-- [Habilitation thesis in pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/hdr_educhesnay.pdf)
+- [Curriculum Vitae in pdf](https://github.com/duchesnay/data/raw/master/pdf/cv_educhesnay.pdf)
+- [Habilitation thesis in pdf](https://github.com/duchesnay/data/raw/master/pdf/hdr_educhesnay.pdf)
 
 ## Experience
 
@@ -121,7 +121,7 @@ Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Informati
 
 ## Teaching
 
-I wrote a course on [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml), [github: Jupyter notebooks and python sources](https://github.com/duchesnay/pystatsml) and [pdf](ftp://ftp.cea.fr/pub/unati/people/educhesnay/pystatml/StatisticsMachineLearningPython.pdf).
+I wrote a course on [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml), [github: Jupyter notebooks and python sources](https://github.com/duchesnay/pystatsml) and [pdf](https://github.com/duchesnay/data/raw/master/pdf/StatisticsMachineLearningPython.pdf).
 
 I deliver lectures on machine learning/statistics in:
 
